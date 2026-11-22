@@ -1,0 +1,18 @@
+{
+  "name": "Community Workshop",
+  "date": "2026-12-05",
+  "shifts": [
+    { "name": "Setup", "startTime": "00:55", "endTime": "13:55", "capacity": 13 },
+    { "name": "Teacher", "startTime": "10:55", "endTime": "15:55", "capacity": 4 },
+    { "name": "Presentation", "startTime": "18:15", "endTime": "21:15", "capacity": 1 }
+  ],
+  "volunteer": {
+    "name": "Demo Volunteer",
+    "availableShifts": ["Teacher", "Presentation"]
+  },
+  "expected": {
+    "filled": 2,
+    "total": 18,
+    "vacancies": 16
+  }
+}

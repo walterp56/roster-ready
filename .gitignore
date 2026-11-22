@@ -1,0 +1,12 @@
+node_modules/
+dist/
+data/
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+.env
+.env.*
+test-results/
+playwright-report/
+docs/~$*.docx

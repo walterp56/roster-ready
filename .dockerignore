@@ -1,0 +1,10 @@
+**
+!package.json
+!package-lock.json
+!index.html
+!tsconfig.json
+!playwright.config.ts
+!src/
+!src/**
+!tests/
+!tests/**
